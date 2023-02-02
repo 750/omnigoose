@@ -1,0 +1,32 @@
+{
+    "en": {
+        "RULE_DID_NOT_MATCH_REGEX": "🚫 Did not match",
+        "RULE_DID_NOT_MATCH_EMPTY_QUERY": "Empty query, try typing something into the field at the top of the page",
+        "BUTTON_COPY_RULE": "📋 Copy rule",
+        "BUTTON_DELETE_RULE": "❌ Delete rule",
+        "BUTTON_SAVE": "💾 Save",
+        "BUTTON_COPY_RULE_TO_CLIPBOARD": "📋Copy rules to clipboard",
+        "BUTTON_PASTE_RULES": "📋 Paste rule",
+        "BUTTON_ADD_NEW_RULE": "➕ Add new rule",
+        "BUTTON_ADD_EXAMPLE_RULE": "🧐 Add example rule",
+        "BUTTON_RESET": "🤯 Reset (delete all and start with default rules)",
+        "BUTTON_TOGGLE_LANGUAGE": "Русский язык 🇷🇺",
+        "BUTTON_PASTE_RULES_BAD_JSON": "Плохой JSON",
+        "QUERY_PLACEHOLDER": "Try pasting some kind of id"
+    },
+    "ru": {
+        "RULE_DID_NOT_MATCH_REGEX": "🚫 Регекс не прошел",
+        "RULE_DID_NOT_MATCH_EMPTY_QUERY": "Пустой запрос, попробуйте ввести что-то в самом верхнем поле",
+        "BUTTON_COPY_RULE": "📋 Скопировать правило",
+        "BUTTON_DELETE_RULE": "❌ Удалить правило",
+        "BUTTON_SAVE": "💾 Сохранить",
+        "BUTTON_COPY_RULE_TO_CLIPBOARD": "📋 Скопировать все правила",
+        "BUTTON_PASTE_RULES": "📋 Вставить правило",
+        "BUTTON_ADD_NEW_RULE": "➕ Добавить новое правило",
+        "BUTTON_ADD_EXAMPLE_RULE": "🧐 Добавить правило-пример",
+        "BUTTON_RESET": "🤯 Давай по новой Миша (начать заново со стандартными правилами)",
+        "BUTTON_TOGGLE_LANGUAGE": "English 🇺🇸",
+        "BUTTON_PASTE_RULES_BAD_JSON": "Bad JSON",
+        "QUERY_PLACEHOLDER": "Попробуйте ввести какой-то айдишник"
+    }
+}
